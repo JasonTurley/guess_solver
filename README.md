@@ -39,4 +39,10 @@ to guess the correct number.
 
 ![demo gif](pics/demo.gif)
 
+<<<<<<< HEAD
 ![demo pic](pics/demo.png)
+=======
+
+
+https://user-images.githubusercontent.com/31322646/125207993-82d49700-e255-11eb-88b4-a1b863c5308a.mp4
+>>>>>>> a2b6bc57a640cc6dd7d4e7a07816153c366f6e69
