@@ -38,3 +38,5 @@ The solver uses a [binary search algorithm](https://www.geeksforgeeks.org/binary
 to guess the correct number. 
 
 ![demo](pics/demo.png)
+
+![demo-mp4](pics/demo.mp4)
