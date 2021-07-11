@@ -37,6 +37,6 @@ python3 solver.py
 The solver uses a [binary search algorithm](https://www.geeksforgeeks.org/binary-search/) 
 to guess the correct number. 
 
-![demo](pics/demo.png)
+![demo gif](pics/demo.gif)
 
-![demo-mp4](pics/demo.mp4)
+![demo pic](pics/demo.png)
