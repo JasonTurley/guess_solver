@@ -39,4 +39,6 @@ to guess the correct number.
 
 ![demo](pics/demo.png)
 
-![demo-mp4](pics/demo.mp4)
+
+
+https://user-images.githubusercontent.com/31322646/125207993-82d49700-e255-11eb-88b4-a1b863c5308a.mp4
