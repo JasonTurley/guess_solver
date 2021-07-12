@@ -1,6 +1,6 @@
 # Guess Solver
 
-A simple guessing game script implemented in Python3 [pwntools
+A "Guess the Number" solver implemented in Python3 with the [pwntools
 framework](https://github.com/Gallopsled/pwntools/).
 
 ## Installation
